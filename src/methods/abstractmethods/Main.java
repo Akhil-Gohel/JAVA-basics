@@ -2,7 +2,7 @@ package methods.abstractmethods;
 
 public class Main {
     public static void main(String[] args) {
-        Demo m = new MyClass();
-        m.display();
+        Shape circle = new Circle(7);
+        circle.calculateArea();
     }
 }
