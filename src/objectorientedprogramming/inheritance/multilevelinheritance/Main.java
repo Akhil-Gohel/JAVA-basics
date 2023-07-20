@@ -1,4 +1,4 @@
-package inheritance.multilevelinheritance;
+package objectorientedprogramming.inheritance.multilevelinheritance;
 
 public class Main {
     public static void main(String[] args) {

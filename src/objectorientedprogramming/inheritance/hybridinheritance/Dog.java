@@ -1,6 +1,4 @@
-package inheritance.multilevelinheritance;
-
-import inheritance.singlelevelinheritance.Animal;
+package objectorientedprogramming.inheritance.hybridinheritance;
 
 public class Dog extends Animal {
     public void bark()

@@ -1,4 +1,4 @@
-package inheritance.hierarchicalinheritance;
+package objectorientedprogramming.inheritance.hierarchicalinheritance;
 
 public class Dog extends Animal{
     public void bark()

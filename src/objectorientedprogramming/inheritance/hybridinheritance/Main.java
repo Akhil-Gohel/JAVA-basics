@@ -1,4 +1,4 @@
-package inheritance.hybridinheritance;
+package objectorientedprogramming.inheritance.hybridinheritance;
 
 public class Main {
     public static void main(String[] args) {

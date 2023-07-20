@@ -1,4 +1,4 @@
-package inheritance.singlelevelinheritance;
+package objectorientedprogramming.inheritance.hierarchicalinheritance;
 
 public class Animal {
     public void eat()

@@ -1,4 +1,4 @@
-package inheritance.multilevelinheritance;
+package objectorientedprogramming.inheritance.multilevelinheritance;
 
 public class BabyDog extends Dog {
     public void weep()

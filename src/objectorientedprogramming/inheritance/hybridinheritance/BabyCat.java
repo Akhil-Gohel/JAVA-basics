@@ -1,4 +1,4 @@
-package inheritance.hybridinheritance;
+package objectorientedprogramming.inheritance.hybridinheritance;
 
 public class BabyCat extends Cat {
     public void weep()

@@ -1,4 +1,4 @@
-package inheritance.multipleinheritance;
+package objectorientedprogramming.inheritance.multipleinheritance;
 
 public class A {
     public void msg()
